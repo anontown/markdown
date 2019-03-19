@@ -1,0 +1,16 @@
+{
+  "name": "@anontown/markdown",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anontown/markdown.git"
+  },
+  "author": "kgtkr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anontown/markdown/issues"
+  },
+  "homepage": "https://github.com/anontown/markdown#readme"
+}
