@@ -2,7 +2,10 @@
   "name": "@anontown/markdown",
   "version": "1.0.0",
   "description": "",
-  "scripts": {},
+  "scripts": {
+    "build": "pulp build",
+    "test": "pulp test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anontown/markdown.git"
